@@ -1,4 +1,4 @@
 addition
-multiplycation
+multiplication
 division
-subtration (future release)
+subtraction (future release)
